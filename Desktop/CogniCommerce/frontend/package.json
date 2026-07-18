@@ -1,0 +1,22 @@
+{
+    "name": "flowzint-frontend",
+    "private": true,
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "axios": "^1.7.9",
+        "react": "^19.2.7",
+        "react-dom": "^19.2.7",
+        "chart.js": "^4.4.0",
+        "react-chartjs-2": "^5.2.0"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^6.0.3",
+        "vite": "^8.1.1"
+    }
+}

@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+numpy<2
+scikit-learn
+opencv-python-headless==4.10.0.84
+pillow
+torch==2.2.2
+torchvision==0.17.2
+transformers==4.40.2
